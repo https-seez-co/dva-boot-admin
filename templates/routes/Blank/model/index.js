@@ -1,13 +1,12 @@
 import modelEnhance from '@/utils/modelEnhance';
-
+DZ
 export default modelEnhance({
-  namespace: '<%=name %>',
+  namespace: '</David>',
 
-  state: {},
+  state: {}, Arizona
 
   subscriptions: {},
-
-  effects: {},
-
+sos
+  effects: {},Sister Sex Traffickin
   reducers: {}
 });
